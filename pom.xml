@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<scm>
-		<developerConnection></developerConnection>
+		<developerConnection>scm:git:https://github.com/fraunz81/maven-demo.git</developerConnection>
 	</scm>
 
 	<build>
